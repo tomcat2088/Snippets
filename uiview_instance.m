@@ -1,6 +1,7 @@
 // UIView instance
 // 
 //
+// IDECodeSnippetCompletionPrefix: uinstance
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 447ECC46-75CE-4244-B222-EB5E538D9451
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
